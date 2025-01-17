@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loys237
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Front-end and Back-end projects Development
+- 🌱 I have a Bsc in Computer Science
 - 💞️ I’m looking to collaborate on Fullstack projects development
 - 📫 How to reach me ... Email 
 
