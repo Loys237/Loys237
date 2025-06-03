@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Loys237
-- 👀 I’m interested in Front-end and Back-end projects Development
-- 🌱 I have a Bsc in Computer Science
-- 💞️ I’m looking to collaborate on Fullstack projects development
-- 📫 How to reach me ... Email 
+# 💫 About Me:
+With a solid foundation in Computer Science and hands-on experience in full stack development, I bring both theoretical knowledge and practical expertise to every project. I'm driven by the challenge of building applications that are not only functional but also elegant and user-centric.<br><br>🔧 Technical Arsenal<br><br>Frontend Mastery<br><br>Modern JavaScript frameworks and libraries<br>Responsive design <br>UI/UX implementation with attention to detail<br><br>Backend Excellence<br><br>Server-side architecture and API development<br>Database design and optimization<br>Security best practices and authentication<br><br>Development Tools<br><br>Version control with Git<br>Cloud platforms and deployment<br>Testing frameworks and CI/CD pipelines<br><br>🚀 What I'm Working On<br><br>Currently exploring cutting-edge technologies and contributing to projects that challenge conventional thinking. I believe in building software that not only works but inspires.<br><br>📈 Always Growing<br>Technology evolves rapidly, and so do I. Whether it's mastering a new framework, diving into emerging trends, or contributing to open-source projects, I'm committed to staying at the forefront of web development.<br><br>🤝 Let's Build Something Amazing<br>I'm always open to discussing new opportunities, collaborating on exciting projects, or simply connecting with fellow developers who share the same passion for creating exceptional web experiences.
 
-<!---
-Loys237/Loys237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tf_lesly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lesly-fotso-) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Loys237) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fotso_lesly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leslyfotso37@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Loys237&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Loys237&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loys237&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Loys237&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leslyfotso37@gmail.com) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
